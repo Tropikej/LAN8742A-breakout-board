@@ -1,0 +1,1251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/github/workspace/LAN8742A-breakout.kicad_sch</source>
+    <date>Date1</date>
+    <tool>Eeschema 8.0.8+1</tool>
+    <textvar name="ASSEMBLY_NOTES"/>
+    <textvar name="BOARD_NAME">LAN8742A-breakout-board</textvar>
+    <textvar name="COMPANY">PatapimLabs</textvar>
+    <textvar name="DESIGNER">Tropikej</textvar>
+    <textvar name="FABRICATION_NOTES"/>
+    <textvar name="GIT_HASH_PCB">51efe4c</textvar>
+    <textvar name="GIT_HASH_SCH">0fae436</textvar>
+    <textvar name="GIT_URL">https://github.com/Tropikej/LAN8742A-breakout-board.git</textvar>
+    <textvar name="PROJECT_NAME">LAN8742A Breakout</textvar>
+    <textvar name="RELEASE_BODY_1.0.0"/>
+    <textvar name="RELEASE_BODY_1.0.1"/>
+    <textvar name="RELEASE_BODY_1.0.2"/>
+    <textvar name="RELEASE_BODY_1.1.0"/>
+    <textvar name="RELEASE_BODY_UNRELEASED">Version Unreleased not found.</textvar>
+    <textvar name="RELEASE_DATE">05-Oct-2025</textvar>
+    <textvar name="RELEASE_DATE_NUM">2025-10-05</textvar>
+    <textvar name="RELEASE_TITLE_1.0.0"/>
+    <textvar name="RELEASE_TITLE_1.0.1"/>
+    <textvar name="RELEASE_TITLE_1.0.2"/>
+    <textvar name="RELEASE_TITLE_1.1.0"/>
+    <textvar name="RELEASE_TITLE_UNRELEASED">Version Unreleased not found.</textvar>
+    <textvar name="REVISION">+ (Unreleased)</textvar>
+    <textvar name="SHEET_NAME_1">Cover Page</textvar>
+    <textvar name="SHEET_NAME_10">......................................</textvar>
+    <textvar name="SHEET_NAME_11">......................................</textvar>
+    <textvar name="SHEET_NAME_12">......................................</textvar>
+    <textvar name="SHEET_NAME_13">......................................</textvar>
+    <textvar name="SHEET_NAME_14">......................................</textvar>
+    <textvar name="SHEET_NAME_15">......................................</textvar>
+    <textvar name="SHEET_NAME_16">......................................</textvar>
+    <textvar name="SHEET_NAME_17">......................................</textvar>
+    <textvar name="SHEET_NAME_18">......................................</textvar>
+    <textvar name="SHEET_NAME_19">......................................</textvar>
+    <textvar name="SHEET_NAME_2">Block Diagram</textvar>
+    <textvar name="SHEET_NAME_20">......................................</textvar>
+    <textvar name="SHEET_NAME_21">......................................</textvar>
+    <textvar name="SHEET_NAME_22">......................................</textvar>
+    <textvar name="SHEET_NAME_23">......................................</textvar>
+    <textvar name="SHEET_NAME_24">......................................</textvar>
+    <textvar name="SHEET_NAME_25">......................................</textvar>
+    <textvar name="SHEET_NAME_26">......................................</textvar>
+    <textvar name="SHEET_NAME_27">......................................</textvar>
+    <textvar name="SHEET_NAME_28">......................................</textvar>
+    <textvar name="SHEET_NAME_29">......................................</textvar>
+    <textvar name="SHEET_NAME_3">Project Architecture</textvar>
+    <textvar name="SHEET_NAME_30">......................................</textvar>
+    <textvar name="SHEET_NAME_31">......................................</textvar>
+    <textvar name="SHEET_NAME_32">......................................</textvar>
+    <textvar name="SHEET_NAME_33">......................................</textvar>
+    <textvar name="SHEET_NAME_34">......................................</textvar>
+    <textvar name="SHEET_NAME_35">......................................</textvar>
+    <textvar name="SHEET_NAME_36">......................................</textvar>
+    <textvar name="SHEET_NAME_37">......................................</textvar>
+    <textvar name="SHEET_NAME_38">......................................</textvar>
+    <textvar name="SHEET_NAME_39">......................................</textvar>
+    <textvar name="SHEET_NAME_4">Section A - Title A</textvar>
+    <textvar name="SHEET_NAME_40">......................................</textvar>
+    <textvar name="SHEET_NAME_5">Section B - Title B</textvar>
+    <textvar name="SHEET_NAME_6">Power - Sequencing</textvar>
+    <textvar name="SHEET_NAME_7">Revision History</textvar>
+    <textvar name="SHEET_NAME_8">......................................</textvar>
+    <textvar name="SHEET_NAME_9">......................................</textvar>
+    <textvar name="VARIANT">DRAFT</textvar>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company>PatapimLabs</company>
+        <rev>+ (Unreleased)</rev>
+        <date>Date2</date>
+        <source>LAN8742A-breakout.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Block Diagram/" tstamps="/82da9dbf-ba38-4d08-ba35-a220fa2963b1/">
+      <title_block>
+        <title>Block Diagram</title>
+        <company>PatapimLabs</company>
+        <rev>+ (Unreleased)</rev>
+        <date>Date2</date>
+        <source>Block Diagram.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/Project Architecture/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/">
+      <title_block>
+        <title>Project Architecture</title>
+        <company>PatapimLabs</company>
+        <rev>+ (Unreleased)</rev>
+        <date>Date2</date>
+        <source>Project Architecture.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/">
+      <title_block>
+        <title>Sheet Title A</title>
+        <company>PatapimLabs</company>
+        <rev>+ (Unreleased)</rev>
+        <date>Date2</date>
+        <source>Section A - Title A.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/Project Architecture/Section B - Title B/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/e744f3ce-03a6-44a6-8792-1447ef232b9a/">
+      <title_block>
+        <title>Sheet Title B</title>
+        <company>PatapimLabs</company>
+        <rev>+ (Unreleased)</rev>
+        <date>Date2</date>
+        <source>Section B - TItle B.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/Power - Sequencing/" tstamps="/5fb05893-0da3-4f58-a52b-cb6d6f4cb80b/">
+      <title_block>
+        <title>Power - Sequencing</title>
+        <company>PatapimLabs</company>
+        <rev>+ (Unreleased)</rev>
+        <date>Date2</date>
+        <source>Power - Sequencing.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/Revision History/" tstamps="/6e125bd6-2f99-4e5d-b3ea-4899f4540739/">
+      <title_block>
+        <title>Revision History</title>
+        <company>PatapimLabs</company>
+        <rev>+ (Unreleased)</rev>
+        <date>Date2</date>
+        <source>Revision History.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>4.7µF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/datasheet/C69335.pdf</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Manufacturer Part Number">CL10A475KA8NQNC</field>
+        <field name="LCSC">C69335</field>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
+        <field name="Datasheet">https://www.lcsc.com/datasheet/C69335.pdf</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer Part Number" value="CL10A475KA8NQNC"/>
+      <property name="LCSC" value="C69335"/>
+      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <tstamps>6ae91ca7-b03d-43ee-b21c-b6ed9d3176fa</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/datasheet/C14663.pdf</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Manufacturer Part Number">CC0603KRX7R9BB104</field>
+        <field name="LCSC">C14663</field>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
+        <field name="Datasheet">https://www.lcsc.com/datasheet/C14663.pdf</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer Part Number" value="CC0603KRX7R9BB104"/>
+      <property name="LCSC" value="C14663"/>
+      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <tstamps>75a04f7e-fbc3-4316-96f3-184cf781625e</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/datasheet/C14663.pdf</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Manufacturer Part Number">CC0603KRX7R9BB104</field>
+        <field name="LCSC">C14663</field>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
+        <field name="Datasheet">https://www.lcsc.com/datasheet/C14663.pdf</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer Part Number" value="CC0603KRX7R9BB104"/>
+      <property name="LCSC" value="C14663"/>
+      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <tstamps>62b88a0a-84c2-4749-909e-361981fca01d</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>4.7µF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/datasheet/C69335.pdf</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Manufacturer Part Number">CL10A475KA8NQNC</field>
+        <field name="LCSC">C69335</field>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
+        <field name="Datasheet">https://www.lcsc.com/datasheet/C69335.pdf</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer Part Number" value="CL10A475KA8NQNC"/>
+      <property name="LCSC" value="C69335"/>
+      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <tstamps>3bccbe6d-25b1-460d-9c96-e57dd2ee6ae8</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/datasheet/C14663.pdf</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Manufacturer Part Number">CC0603KRX7R9BB104</field>
+        <field name="LCSC">C14663</field>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
+        <field name="Datasheet">https://www.lcsc.com/datasheet/C14663.pdf</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer Part Number" value="CC0603KRX7R9BB104"/>
+      <property name="LCSC" value="C14663"/>
+      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <tstamps>8e47414a-03e8-4cfe-8fed-f62c6306429a</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>4.7µF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/datasheet/C69335.pdf</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Manufacturer Part Number">CL10A475KA8NQNC</field>
+        <field name="LCSC">C69335</field>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
+        <field name="Datasheet">https://www.lcsc.com/datasheet/C69335.pdf</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer Part Number" value="CL10A475KA8NQNC"/>
+      <property name="LCSC" value="C69335"/>
+      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <tstamps>179b0717-17ee-4e75-95a3-115d2b8994f2</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>1µF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/datasheet/C29936.pdf</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Manufacturer Part Number">CL10B105KA8NNNC</field>
+        <field name="LCSC">C29936</field>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
+        <field name="Datasheet">https://www.lcsc.com/datasheet/C29936.pdf</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer Part Number" value="CL10B105KA8NNNC"/>
+      <property name="LCSC" value="C29936"/>
+      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <tstamps>949a1d26-2cce-42ad-99a3-b8f1888c5300</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>470pF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/datasheet/C36252.pdf</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Manufacturer Part Number">0603CG471J500NT</field>
+        <field name="LCSC">C36252</field>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
+        <field name="Datasheet">https://www.lcsc.com/datasheet/C36252.pdf</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer Part Number" value="0603CG471J500NT"/>
+      <property name="LCSC" value="C36252"/>
+      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <tstamps>60a65a8b-9c17-45e3-9888-13b9f52e738b</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>4.7µF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/datasheet/C69335.pdf</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Manufacturer Part Number">CL10A475KA8NQNC</field>
+        <field name="LCSC">C69335</field>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
+        <field name="Datasheet">https://www.lcsc.com/datasheet/C69335.pdf</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer Part Number" value="CL10A475KA8NQNC"/>
+      <property name="LCSC" value="C69335"/>
+      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <tstamps>b08a9cd8-a40a-4ef9-b1ee-ab4e9f8cfd94</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>33pF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/datasheet/C107047.pdf</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Manufacturer Part Number">CC0603JRNPO9BN330</field>
+        <field name="LCSC">C107047</field>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
+        <field name="Datasheet">https://www.lcsc.com/datasheet/C107047.pdf</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer Part Number" value="CC0603JRNPO9BN330"/>
+      <property name="LCSC" value="C107047"/>
+      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <tstamps>e5e09bf6-734a-4959-9c2b-32b8ccb00800</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>33pF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/datasheet/C107047.pdf</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Manufacturer Part Number">CC0603JRNPO9BN330</field>
+        <field name="LCSC">C107047</field>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
+        <field name="Datasheet">https://www.lcsc.com/datasheet/C107047.pdf</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer Part Number" value="CC0603JRNPO9BN330"/>
+      <property name="LCSC" value="C107047"/>
+      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <tstamps>a4a37875-56d9-4372-8ae8-96ae69218afe</tstamps>
+    </comp>
+    <comp ref="FB1">
+      <value>FerriteBead</value>
+      <datasheet>https://www.lcsc.com/datasheet/C14709.pdf</datasheet>
+      <description>Ferrite bead</description>
+      <fields>
+        <field name="Manufacturer Part Number">BLM18PG121SN1D</field>
+        <field name="LCSC">C14709</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">https://www.lcsc.com/datasheet/C14709.pdf</field>
+        <field name="Description">Ferrite bead</field>
+      </fields>
+      <libsource lib="Device" part="FerriteBead" description="Ferrite bead"/>
+      <property name="Manufacturer Part Number" value="BLM18PG121SN1D"/>
+      <property name="LCSC" value="C14709"/>
+      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="ki_keywords" value="L ferrite bead inductor filter"/>
+      <property name="ki_fp_filters" value="Inductor_* L_* *Ferrite*"/>
+      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <tstamps>09bbcbed-1ad6-4bb2-a25d-6c440469e87f</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>HR911105A_C12074</value>
+      <footprint>0_connector:RJ45-TH_HR911105A</footprint>
+      <datasheet>https://www.lcsc.com/datasheet/C12074.pdf</datasheet>
+      <fields>
+        <field name="LCSC Part">C12074</field>
+        <field name="Footprint">0_connector:RJ45-TH_HR911105A</field>
+        <field name="Datasheet">https://www.lcsc.com/datasheet/C12074.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="0_connector" part="HR911105A_C12074" description=""/>
+      <property name="LCSC Part" value="C12074"/>
+      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <tstamps>6e8f5d6f-af8a-4365-98bd-8ad9b8ec55c2</tstamps>
+    </comp>
+    <comp ref="JP1">
+      <value>REGOFF</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <description>Solder Jumper, 2-pole, open</description>
+      <fields>
+        <field name="Footprint">Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">Solder Jumper, 2-pole, open</field>
+      </fields>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="exclude_from_bom"/>
+      <property name="ki_keywords" value="solder jumper SPST"/>
+      <property name="ki_fp_filters" value="SolderJumper*Open*"/>
+      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <tstamps>09271266-8a81-433d-badd-579cb624739a</tstamps>
+    </comp>
+    <comp ref="JP2">
+      <value>nINTSEL</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</footprint>
+      <description>Solder Jumper, 2-pole, open</description>
+      <fields>
+        <field name="Footprint">Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">Solder Jumper, 2-pole, open</field>
+      </fields>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="exclude_from_bom"/>
+      <property name="ki_keywords" value="solder jumper SPST"/>
+      <property name="ki_fp_filters" value="SolderJumper*Open*"/>
+      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <tstamps>47d8f8a1-530c-4c25-b572-6248034f3f9b</tstamps>
+    </comp>
+    <comp ref="JP3">
+      <value>nINTSEL</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <description>Solder Jumper, 2-pole, open</description>
+      <fields>
+        <field name="Footprint">Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">Solder Jumper, 2-pole, open</field>
+      </fields>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="exclude_from_bom"/>
+      <property name="ki_keywords" value="solder jumper SPST"/>
+      <property name="ki_fp_filters" value="SolderJumper*Open*"/>
+      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <tstamps>bedb594e-03ef-4fa1-8f24-55a479713f1b</tstamps>
+    </comp>
+    <comp ref="JP4">
+      <value>SH</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</footprint>
+      <description>Solder Jumper, 2-pole, open</description>
+      <fields>
+        <field name="Footprint">Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">Solder Jumper, 2-pole, open</field>
+      </fields>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="exclude_from_bom"/>
+      <property name="ki_keywords" value="solder jumper SPST"/>
+      <property name="ki_fp_filters" value="SolderJumper*Open*"/>
+      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <tstamps>cba69eb1-1c65-4730-8104-f80202f97d82</tstamps>
+    </comp>
+    <comp ref="JP5">
+      <value>SH</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</footprint>
+      <description>Solder Jumper, 2-pole, open</description>
+      <fields>
+        <field name="Footprint">Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">Solder Jumper, 2-pole, open</field>
+      </fields>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="exclude_from_bom"/>
+      <property name="ki_keywords" value="solder jumper SPST"/>
+      <property name="ki_fp_filters" value="SolderJumper*Open*"/>
+      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <tstamps>aad08bb2-e1d6-4c71-ad2f-0ba257d67307</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>12.1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/datasheet/C22864.pdf</datasheet>
+      <description>Resistor</description>
+      <fields>
+        <field name="Manufacturer Part Number">0603WAF1212T5E</field>
+        <field name="LCSC">C22864</field>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
+        <field name="Datasheet">https://www.lcsc.com/datasheet/C22864.pdf</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer Part Number" value="0603WAF1212T5E"/>
+      <property name="LCSC" value="C22864"/>
+      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <tstamps>4427ed55-8c4f-44e2-a4e9-3329cbe70a11</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/datasheet/C98220.pdf</datasheet>
+      <description>Resistor</description>
+      <fields>
+        <field name="Manufacturer Part Number">RC0603FR-0710KL</field>
+        <field name="LCSC">C98220</field>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
+        <field name="Datasheet">https://www.lcsc.com/datasheet/C98220.pdf</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer Part Number" value="RC0603FR-0710KL"/>
+      <property name="LCSC" value="C98220"/>
+      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <tstamps>a2ffa308-c8b9-4b5e-b3ac-fba5810831f9</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/datasheet/C98220.pdf</datasheet>
+      <description>Resistor</description>
+      <fields>
+        <field name="Manufacturer Part Number">RC0603FR-0710KL</field>
+        <field name="LCSC">C98220</field>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
+        <field name="Datasheet">https://www.lcsc.com/datasheet/C98220.pdf</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer Part Number" value="RC0603FR-0710KL"/>
+      <property name="LCSC" value="C98220"/>
+      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <tstamps>83d25160-c4b0-4284-8e89-30ad38dfe330</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/datasheet/C98220.pdf</datasheet>
+      <description>Resistor</description>
+      <fields>
+        <field name="Manufacturer Part Number">RC0603FR-0710KL</field>
+        <field name="LCSC">C98220</field>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
+        <field name="Datasheet">https://www.lcsc.com/datasheet/C98220.pdf</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer Part Number" value="RC0603FR-0710KL"/>
+      <property name="LCSC" value="C98220"/>
+      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <tstamps>18ce6e68-3285-4c45-9f20-26152efdc434</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/datasheet/C98220.pdf</datasheet>
+      <description>Resistor</description>
+      <fields>
+        <field name="Manufacturer Part Number">RC0603FR-0710KL</field>
+        <field name="LCSC">C98220</field>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
+        <field name="Datasheet">https://www.lcsc.com/datasheet/C98220.pdf</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer Part Number" value="RC0603FR-0710KL"/>
+      <property name="LCSC" value="C98220"/>
+      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <tstamps>33c0b6e0-40cb-443a-80da-535886e6c4cd</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/datasheet/C22548.pdf</datasheet>
+      <description>Resistor</description>
+      <fields>
+        <field name="Manufacturer Part Number">RC0603FR-071KL</field>
+        <field name="LCSC">C22548</field>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
+        <field name="Datasheet">https://www.lcsc.com/datasheet/C22548.pdf</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer Part Number" value="RC0603FR-071KL"/>
+      <property name="LCSC" value="C22548"/>
+      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <tstamps>3bda2beb-e34a-44a9-9382-49f964a0f4e3</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/datasheet/C22548.pdf</datasheet>
+      <description>Resistor</description>
+      <fields>
+        <field name="Manufacturer Part Number">RC0603FR-071KL</field>
+        <field name="LCSC">C22548</field>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
+        <field name="Datasheet">https://www.lcsc.com/datasheet/C22548.pdf</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer Part Number" value="RC0603FR-071KL"/>
+      <property name="LCSC" value="C22548"/>
+      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <tstamps>f60f217f-e205-4ab9-ac32-784071a532a6</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/datasheet/C22548.pdf</datasheet>
+      <description>Resistor</description>
+      <fields>
+        <field name="Manufacturer Part Number">RC0603FR-071KL</field>
+        <field name="LCSC">C22548</field>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
+        <field name="Datasheet">https://www.lcsc.com/datasheet/C22548.pdf</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer Part Number" value="RC0603FR-071KL"/>
+      <property name="LCSC" value="C22548"/>
+      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <tstamps>8fde25da-a7e2-4d53-b64d-fab0797c2948</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>49.9</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/datasheet/C114625.pdf</datasheet>
+      <description>Resistor</description>
+      <fields>
+        <field name="Manufacturer Part Number">RC0603FR-0749R9L</field>
+        <field name="LCSC">C114625</field>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
+        <field name="Datasheet">https://www.lcsc.com/datasheet/C114625.pdf</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer Part Number" value="RC0603FR-0749R9L"/>
+      <property name="LCSC" value="C114625"/>
+      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <tstamps>6181684e-7c76-4dc0-a215-93be484dba2a</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>49.9</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/datasheet/C114625.pdf</datasheet>
+      <description>Resistor</description>
+      <fields>
+        <field name="Manufacturer Part Number">RC0603FR-0749R9L</field>
+        <field name="LCSC">C114625</field>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
+        <field name="Datasheet">https://www.lcsc.com/datasheet/C114625.pdf</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer Part Number" value="RC0603FR-0749R9L"/>
+      <property name="LCSC" value="C114625"/>
+      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <tstamps>cf77d6b5-0f60-4d3c-9698-3ee5797fc169</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>49.9</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/datasheet/C114625.pdf</datasheet>
+      <description>Resistor</description>
+      <fields>
+        <field name="Manufacturer Part Number">RC0603FR-0749R9L</field>
+        <field name="LCSC">C114625</field>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
+        <field name="Datasheet">https://www.lcsc.com/datasheet/C114625.pdf</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer Part Number" value="RC0603FR-0749R9L"/>
+      <property name="LCSC" value="C114625"/>
+      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <tstamps>15a387f4-6a34-4cf4-8308-0eb8cddc4eb4</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>49.9</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/datasheet/C114625.pdf</datasheet>
+      <description>Resistor</description>
+      <fields>
+        <field name="Manufacturer Part Number">RC0603FR-0749R9L</field>
+        <field name="LCSC">C114625</field>
+        <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
+        <field name="Datasheet">https://www.lcsc.com/datasheet/C114625.pdf</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer Part Number" value="RC0603FR-0749R9L"/>
+      <property name="LCSC" value="C114625"/>
+      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <tstamps>c52eb97e-6f21-40a7-aadd-7ff66e8e5221</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>nRST_SW</value>
+      <description>Push button switch, generic, two pins</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Push button switch, generic, two pins</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <tstamps>bdeebad0-a3d3-4125-be41-07b8a4d0e3a0</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>LAN8720A</value>
+      <footprint>Package_DFN_QFN:VQFN-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/8720a.pdf</datasheet>
+      <description>LAN8720 Ethernet PHY with RMII interface, QFN-24</description>
+      <fields>
+        <field name="Manufacturer Part Number">LAN8742A-CZ-TR</field>
+        <field name="Footprint">Package_DFN_QFN:VQFN-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/8720a.pdf</field>
+        <field name="Description">LAN8720 Ethernet PHY with RMII interface, QFN-24</field>
+      </fields>
+      <libsource lib="Interface_Ethernet" part="LAN8720A" description="LAN8720 Ethernet PHY with RMII interface, QFN-24"/>
+      <property name="Manufacturer Part Number" value="LAN8742A-CZ-TR"/>
+      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="ki_keywords" value="ETH PHY RMII"/>
+      <property name="ki_fp_filters" value="VQFN*1EP*4x4mm*P0.5mm*"/>
+      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <tstamps>473eb6e3-e87c-4545-a546-d4bfa5dd0ab7</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>25MHz</value>
+      <datasheet>https://www.lcsc.com/datasheet/C7462598.pdf</datasheet>
+      <description>Two pin crystal</description>
+      <fields>
+        <field name="Manufacturer Part Number">01.X.SD.120MMOI025000000</field>
+        <field name="LCSC">C7462598</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">https://www.lcsc.com/datasheet/C7462598.pdf</field>
+        <field name="Description">Two pin crystal</field>
+      </fields>
+      <libsource lib="Device" part="Crystal" description="Two pin crystal"/>
+      <property name="Manufacturer Part Number" value="01.X.SD.120MMOI025000000"/>
+      <property name="LCSC" value="C7462598"/>
+      <property name="Sheetname" value="Section A - Title A"/>
+      <property name="Sheetfile" value="Section A - Title A.kicad_sch"/>
+      <property name="ki_keywords" value="quartz ceramic resonator oscillator"/>
+      <property name="ki_fp_filters" value="Crystal*"/>
+      <sheetpath names="/Project Architecture/Section A - Title A/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
+      <tstamps>92625e7a-219f-4f3f-aced-9b8ebb4dc097</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="0_connector" part="HR911105A_C12074">
+      <docs>https://lcsc.com/product-detail/RJ45_RJ45-LED_C12074.html</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">HR911105A_C12074</field>
+        <field name="Footprint">0_connector:RJ45-TH_HR911105A</field>
+        <field name="Datasheet">https://lcsc.com/product-detail/RJ45_RJ45-LED_C12074.html</field>
+        <field name="Description"/>
+        <field name="LCSC Part">C12074</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TD+" type="unspecified"/>
+        <pin num="2" name="TD-" type="unspecified"/>
+        <pin num="3" name="RD+" type="unspecified"/>
+        <pin num="4" name="4" type="unspecified"/>
+        <pin num="5" name="5" type="unspecified"/>
+        <pin num="6" name="RD-" type="unspecified"/>
+        <pin num="7" name="NC" type="unspecified"/>
+        <pin num="8" name="CHSGND" type="unspecified"/>
+        <pin num="9" name="9" type="unspecified"/>
+        <pin num="10" name="10" type="unspecified"/>
+        <pin num="11" name="11" type="unspecified"/>
+        <pin num="12" name="12" type="unspecified"/>
+        <pin num="SH1" name="SH1" type="unspecified"/>
+        <pin num="SH2" name="SH2" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal">
+      <description>Two pin crystal</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Two pin crystal</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="FerriteBead">
+      <description>Ferrite bead</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+        <fp>*Ferrite*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">FB</field>
+        <field name="Value">FerriteBead</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Ferrite bead</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Interface_Ethernet" part="LAN8720A">
+      <description>LAN8720 Ethernet PHY with RMII interface, QFN-24</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/8720a.pdf</docs>
+      <footprints>
+        <fp>VQFN*1EP*4x4mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LAN8720A</field>
+        <field name="Footprint">Package_DFN_QFN:VQFN-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/8720a.pdf</field>
+        <field name="Description">LAN8720 Ethernet PHY with RMII interface, QFN-24</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD2A" type="power_in"/>
+        <pin num="2" name="LED2/~{INTSEL}" type="bidirectional"/>
+        <pin num="3" name="LED1/REGOFF" type="bidirectional"/>
+        <pin num="4" name="XTAL2" type="output"/>
+        <pin num="5" name="XTAL1/CLKIN" type="input"/>
+        <pin num="6" name="VDDCR" type="power_in"/>
+        <pin num="7" name="RXD1/MODE1" type="bidirectional"/>
+        <pin num="8" name="RXD0/MODE0" type="bidirectional"/>
+        <pin num="9" name="VDDIO" type="power_in"/>
+        <pin num="10" name="RXER/PHYAD0" type="output"/>
+        <pin num="11" name="CRS_DV/MODE2" type="bidirectional"/>
+        <pin num="12" name="MDIO" type="bidirectional"/>
+        <pin num="13" name="MDC" type="input"/>
+        <pin num="14" name="~{INT}/REFCLKO" type="output"/>
+        <pin num="15" name="~{RST}" type="input"/>
+        <pin num="16" name="TXEN" type="input"/>
+        <pin num="17" name="TXD0" type="input"/>
+        <pin num="18" name="TXD1" type="input"/>
+        <pin num="19" name="VDD1A" type="power_in"/>
+        <pin num="20" name="TXN" type="bidirectional"/>
+        <pin num="21" name="TXP" type="bidirectional"/>
+        <pin num="22" name="RXN" type="bidirectional"/>
+        <pin num="23" name="RXP" type="bidirectional"/>
+        <pin num="24" name="RBIAS" type="passive"/>
+        <pin num="25" name="VSS" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="SolderJumper_2_Open">
+      <description>Solder Jumper, 2-pole, open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SolderJumper*Open*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">SolderJumper_2_Open</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Solder Jumper, 2-pole, open</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Push button switch, generic, two pins</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Interface_Ethernet">
+      <uri>/usr/share/kicad/symbols//Interface_Ethernet.kicad_sym</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>/usr/share/kicad/symbols//Jumper.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>/usr/share/kicad/symbols//Switch.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3.3V">
+      <node ref="FB1" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="2" name="+3V3_PHYA">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="FB1" pin="2" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="4" pintype="unspecified"/>
+      <node ref="J1" pin="5" pinfunction="5" pintype="unspecified"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="VDD2A" pintype="power_in"/>
+      <node ref="U1" pin="19" pinfunction="VDD1A" pintype="power_in"/>
+      <node ref="U1" pin="6" pinfunction="VDDCR" pintype="power_in"/>
+      <node ref="U1" pin="9" pinfunction="VDDIO" pintype="power_in"/>
+    </net>
+    <net code="3" name="/Project Architecture/Section A - Title A/LED1">
+      <node ref="J1" pin="9" pinfunction="9" pintype="unspecified"/>
+    </net>
+    <net code="4" name="/Project Architecture/Section A - Title A/LED2">
+      <node ref="J1" pin="12" pinfunction="12" pintype="unspecified"/>
+    </net>
+    <net code="5" name="/Project Architecture/Section A - Title A/REFCLKO">
+      <node ref="U1" pin="14" pinfunction="~{INT}/REFCLKO" pintype="output"/>
+    </net>
+    <net code="6" name="/Project Architecture/Section A - Title A/RX_N">
+      <node ref="J1" pin="6" pinfunction="RD-" pintype="unspecified"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="RXN" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="/Project Architecture/Section A - Title A/RX_P">
+      <node ref="J1" pin="3" pinfunction="RD+" pintype="unspecified"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="RXP" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/Project Architecture/Section A - Title A/TX_N">
+      <node ref="J1" pin="2" pinfunction="TD-" pintype="unspecified"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="TXN" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="/Project Architecture/Section A - Title A/TX_P">
+      <node ref="J1" pin="1" pinfunction="TD+" pintype="unspecified"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="TXP" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="/Project Architecture/Section A - Title A/nRST">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="~{RST}" pintype="input"/>
+    </net>
+    <net code="11" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J1" pin="8" pinfunction="CHSGND" pintype="unspecified"/>
+      <node ref="JP4" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP5" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="25" pinfunction="VSS" pintype="power_in"/>
+    </net>
+    <net code="12" name="Net-(J1-Pad10)">
+      <node ref="J1" pin="10" pinfunction="10" pintype="unspecified"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(J1-Pad11)">
+      <node ref="J1" pin="11" pinfunction="11" pintype="unspecified"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(JP1-A)">
+      <node ref="JP1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="LED1/REGOFF" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="Net-(JP1-B)">
+      <node ref="JP1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(JP2-A)">
+      <node ref="JP2" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(JP2-B)">
+      <node ref="JP2" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="JP3" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="LED2/~{INTSEL}" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="Net-(JP3-A)">
+      <node ref="JP3" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(JP4-B)">
+      <node ref="J1" pin="SH2" pinfunction="SH2" pintype="unspecified"/>
+      <node ref="JP4" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(JP5-B)">
+      <node ref="J1" pin="SH1" pinfunction="SH1" pintype="unspecified"/>
+      <node ref="JP5" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(R6-Pad1)">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(U1-RBIAS)">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="24" pinfunction="RBIAS" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(U1-XTAL1{slash}CLKIN)">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="XTAL1/CLKIN" pintype="input"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(U1-XTAL2)">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="XTAL2" pintype="output"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="25" name="unconnected-(J1-NC-Pad7)">
+      <node ref="J1" pin="7" pinfunction="NC" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="26" name="unconnected-(U1-CRS_DV{slash}MODE2-Pad11)">
+      <node ref="U1" pin="11" pinfunction="CRS_DV/MODE2" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="unconnected-(U1-MDC-Pad13)">
+      <node ref="U1" pin="13" pinfunction="MDC" pintype="input"/>
+    </net>
+    <net code="28" name="unconnected-(U1-MDIO-Pad12)">
+      <node ref="U1" pin="12" pinfunction="MDIO" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="unconnected-(U1-RXD0{slash}MODE0-Pad8)">
+      <node ref="U1" pin="8" pinfunction="RXD0/MODE0" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="unconnected-(U1-RXD1{slash}MODE1-Pad7)">
+      <node ref="U1" pin="7" pinfunction="RXD1/MODE1" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="unconnected-(U1-RXER{slash}PHYAD0-Pad10)">
+      <node ref="U1" pin="10" pinfunction="RXER/PHYAD0" pintype="output"/>
+    </net>
+    <net code="32" name="unconnected-(U1-TXD0-Pad17)">
+      <node ref="U1" pin="17" pinfunction="TXD0" pintype="input"/>
+    </net>
+    <net code="33" name="unconnected-(U1-TXD1-Pad18)">
+      <node ref="U1" pin="18" pinfunction="TXD1" pintype="input"/>
+    </net>
+    <net code="34" name="unconnected-(U1-TXEN-Pad16)">
+      <node ref="U1" pin="16" pinfunction="TXEN" pintype="input"/>
+    </net>
+  </nets>
+</export>
