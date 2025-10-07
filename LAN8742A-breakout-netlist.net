@@ -1,6 +1,6 @@
 (export (version "E")
   (design
-    (source "/tmp/tmp-kibot-net_sch_print-bmkx7fc7/LAN8742A-breakout.kicad_sch")
+    (source "/tmp/tmp-kibot-net_sch_print-3twwqe0f/LAN8742A-breakout.kicad_sch")
     (date "Date")
     (tool "Eeschema 8.0.8+1")
     (textvar (name "ASSEMBLY_NOTES"))
@@ -8,7 +8,7 @@
     (textvar (name "COMPANY") "PatapimLabs")
     (textvar (name "DESIGNER") "Tropikej")
     (textvar (name "FABRICATION_NOTES"))
-    (textvar (name "GIT_HASH_PCB") "7e01619")
+    (textvar (name "GIT_HASH_PCB") "f5059cd")
     (textvar (name "GIT_HASH_SCH") "0fae436")
     (textvar (name "GIT_URL") "https://github.com/Tropikej/LAN8742A-breakout-board.git")
     (textvar (name "PROJECT_NAME") "LAN8742A Breakout")

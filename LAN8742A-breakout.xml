@@ -9,7 +9,7 @@
     <textvar name="COMPANY">PatapimLabs</textvar>
     <textvar name="DESIGNER">Tropikej</textvar>
     <textvar name="FABRICATION_NOTES"/>
-    <textvar name="GIT_HASH_PCB">7e01619</textvar>
+    <textvar name="GIT_HASH_PCB">f5059cd</textvar>
     <textvar name="GIT_HASH_SCH">0fae436</textvar>
     <textvar name="GIT_URL">https://github.com/Tropikej/LAN8742A-breakout-board.git</textvar>
     <textvar name="PROJECT_NAME">LAN8742A Breakout</textvar>
