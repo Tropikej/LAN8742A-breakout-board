@@ -494,6 +494,23 @@
       {
         "bus_width": 12,
         "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "50R",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.34,
+        "via_diameter": 0.55,
+        "via_drill": 0.25,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
         "diff_pair_gap": 0.28,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2032,
@@ -684,6 +701,20 @@
     },
     "net_colors": null,
     "netclass_assignments": {
+      "/Project Architecture/LAN8742A breakout/CRS_DV": "50R",
+      "/Project Architecture/LAN8742A breakout/MDC": "50R",
+      "/Project Architecture/LAN8742A breakout/MDIO": "50R",
+      "/Project Architecture/LAN8742A breakout/REFCLKO": "50R",
+      "/Project Architecture/LAN8742A breakout/RXD0": "50R",
+      "/Project Architecture/LAN8742A breakout/RXD1": "50R",
+      "/Project Architecture/LAN8742A breakout/RXER": "50R",
+      "/Project Architecture/LAN8742A breakout/RX_N": "DP_100R",
+      "/Project Architecture/LAN8742A breakout/RX_P": "DP_100R",
+      "/Project Architecture/LAN8742A breakout/TXD0": "50R",
+      "/Project Architecture/LAN8742A breakout/TXD1": "50R",
+      "/Project Architecture/LAN8742A breakout/TXEN": "50R",
+      "/Project Architecture/LAN8742A breakout/TX_N": "DP_100R",
+      "/Project Architecture/LAN8742A breakout/TX_P": "DP_100R",
       "/Project Architecture/Section A - Title A/RX_N": "DP_100R",
       "/Project Architecture/Section A - Title A/RX_P": "DP_100R",
       "/Project Architecture/Section A - Title A/TX_N": "DP_100R",
@@ -792,12 +823,24 @@
           "label": "Config",
           "name": "Config",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC Part",
+          "name": "LCSC Part",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC",
+          "name": "LCSC",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "name": "",
-      "sort_asc": true,
+      "sort_asc": false,
       "sort_field": "Footprint"
     },
     "connection_grid_size": 50.0,
@@ -854,11 +897,7 @@
     ],
     [
       "f06537ee-772d-44d3-8c50-e0ba41038c9c",
-      "Section A - Title A"
-    ],
-    [
-      "e744f3ce-03a6-44a6-8792-1447ef232b9a",
-      "Section B - Title B"
+      "LAN8742A breakout"
     ],
     [
       "5fb05893-0da3-4f58-a52b-cb6d6f4cb80b",
@@ -871,14 +910,14 @@
   ],
   "text_variables": {
     "ASSEMBLY_NOTES": "ASSEMBLY NOTES",
-    "BOARD_NAME": "Board Name",
-    "COMPANY": "Company",
-    "DESIGNER": "Author",
+    "BOARD_NAME": "LAN8742A breakout",
+    "COMPANY": "TropiLabs",
+    "DESIGNER": "Tropikej",
     "FABRICATION_NOTES": "FABRICATION NOTES",
     "GIT_HASH_PCB": "",
     "GIT_HASH_SCH": "",
     "GIT_URL": "",
-    "PROJECT_NAME": "Project Name",
+    "PROJECT_NAME": "LAN8742A",
     "RELEASE_BODY_1.0.0": "",
     "RELEASE_BODY_1.0.1": "",
     "RELEASE_BODY_1.0.2": "",
