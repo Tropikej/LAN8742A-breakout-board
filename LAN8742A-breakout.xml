@@ -64,9 +64,9 @@
 	BOARD THICKNESS		1.626 mm
 	TRACE WIDTH			0.200 mm
 	TRACE TO TRACE		0.200 mm
-	MIN. HOLE (PTH)			0.200 mm
+	MIN. HOLE (PTH)			0.250 mm
 	MIN. HOLE (NPTH)		3.200 mm
-	ANNULAR RING			0.150 mm
+	ANNULAR RING			0.125 mm
 	COPPER TO HOLE		0.254 mm
 	COPPER TO EDGE		0.250 mm
 	HOLE TO HOLE			0.254 mm
@@ -74,7 +74,7 @@
 11)	REFER TO IMPEDANCE TABLE FOR IMPEDANCE CONTROL REQUIREMENTS.
 
 12)	CONFIRM SPACE WIDTHS AND SPACINGS.</textvar>
-    <textvar name="GIT_HASH_PCB">f5059cd</textvar>
+    <textvar name="GIT_HASH_PCB">a97e5f9</textvar>
     <textvar name="GIT_HASH_SCH">0fae436</textvar>
     <textvar name="GIT_URL">https://github.com/Tropikej/LAN8742A-breakout-board.git</textvar>
     <textvar name="PROJECT_NAME">LAN8742A Breakout</textvar>
@@ -132,6 +132,7 @@
     <textvar name="SHEET_NAME_8">......................................</textvar>
     <textvar name="SHEET_NAME_9">......................................</textvar>
     <textvar name="VARIANT">PRELIMINARY</textvar>
+    <textvar name="VERSION">1.0.0</textvar>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
@@ -631,10 +632,10 @@
     </comp>
     <comp ref="J4">
       <value>J_LED</value>
-      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical</footprint>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
       <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
       <fields>
-        <field name="Footprint">Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical</field>
+        <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</field>
         <field name="Datasheet"/>
         <field name="Description">Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
       </fields>
