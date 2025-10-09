@@ -74,7 +74,7 @@
 11)	REFER TO IMPEDANCE TABLE FOR IMPEDANCE CONTROL REQUIREMENTS.
 
 12)	CONFIRM SPACE WIDTHS AND SPACINGS.</textvar>
-    <textvar name="GIT_HASH_PCB">a97e5f9</textvar>
+    <textvar name="GIT_HASH_PCB">1c565d1</textvar>
     <textvar name="GIT_HASH_SCH">0fae436</textvar>
     <textvar name="GIT_URL">https://github.com/Tropikej/LAN8742A-breakout-board.git</textvar>
     <textvar name="PROJECT_NAME">LAN8742A Breakout</textvar>
@@ -83,8 +83,8 @@
     <textvar name="RELEASE_BODY_1.0.2"/>
     <textvar name="RELEASE_BODY_1.1.0"/>
     <textvar name="RELEASE_BODY_UNRELEASED">Version Unreleased not found.</textvar>
-    <textvar name="RELEASE_DATE">08-Oct-2025</textvar>
-    <textvar name="RELEASE_DATE_NUM">2025-10-08</textvar>
+    <textvar name="RELEASE_DATE">09-Oct-2025</textvar>
+    <textvar name="RELEASE_DATE_NUM">2025-10-09</textvar>
     <textvar name="RELEASE_TITLE_1.0.0"/>
     <textvar name="RELEASE_TITLE_1.0.1"/>
     <textvar name="RELEASE_TITLE_1.0.2"/>
@@ -251,6 +251,8 @@
       <fields>
         <field name="Manufacturer Part Number">CL10A475KA8NQNC</field>
         <field name="LCSC">C69335</field>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
         <field name="Datasheet">https://www.lcsc.com/datasheet/C69335.pdf</field>
         <field name="Description">Unpolarized capacitor</field>
@@ -258,6 +260,8 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Manufacturer Part Number" value="CL10A475KA8NQNC"/>
       <property name="LCSC" value="C69335"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -273,6 +277,8 @@
       <fields>
         <field name="Manufacturer Part Number">CC0603KRX7R9BB104</field>
         <field name="LCSC">C14663</field>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
         <field name="Datasheet">https://www.lcsc.com/datasheet/C14663.pdf</field>
         <field name="Description">Unpolarized capacitor</field>
@@ -280,6 +286,8 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Manufacturer Part Number" value="CC0603KRX7R9BB104"/>
       <property name="LCSC" value="C14663"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -295,6 +303,8 @@
       <fields>
         <field name="Manufacturer Part Number">CC0603KRX7R9BB104</field>
         <field name="LCSC">C14663</field>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
         <field name="Datasheet">https://www.lcsc.com/datasheet/C14663.pdf</field>
         <field name="Description">Unpolarized capacitor</field>
@@ -302,6 +312,8 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Manufacturer Part Number" value="CC0603KRX7R9BB104"/>
       <property name="LCSC" value="C14663"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -317,6 +329,8 @@
       <fields>
         <field name="Manufacturer Part Number">CL10A475KA8NQNC</field>
         <field name="LCSC">C69335</field>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
         <field name="Datasheet">https://www.lcsc.com/datasheet/C69335.pdf</field>
         <field name="Description">Unpolarized capacitor</field>
@@ -324,6 +338,8 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Manufacturer Part Number" value="CL10A475KA8NQNC"/>
       <property name="LCSC" value="C69335"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -339,6 +355,8 @@
       <fields>
         <field name="Manufacturer Part Number">CC0603KRX7R9BB104</field>
         <field name="LCSC">C14663</field>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
         <field name="Datasheet">https://www.lcsc.com/datasheet/C14663.pdf</field>
         <field name="Description">Unpolarized capacitor</field>
@@ -346,6 +364,8 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Manufacturer Part Number" value="CC0603KRX7R9BB104"/>
       <property name="LCSC" value="C14663"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -361,6 +381,8 @@
       <fields>
         <field name="Manufacturer Part Number">CL10A475KA8NQNC</field>
         <field name="LCSC">C69335</field>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
         <field name="Datasheet">https://www.lcsc.com/datasheet/C69335.pdf</field>
         <field name="Description">Unpolarized capacitor</field>
@@ -368,6 +390,8 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Manufacturer Part Number" value="CL10A475KA8NQNC"/>
       <property name="LCSC" value="C69335"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -383,6 +407,8 @@
       <fields>
         <field name="Manufacturer Part Number">CL10B105KA8NNNC</field>
         <field name="LCSC">C29936</field>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
         <field name="Datasheet">https://www.lcsc.com/datasheet/C29936.pdf</field>
         <field name="Description">Unpolarized capacitor</field>
@@ -390,6 +416,8 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Manufacturer Part Number" value="CL10B105KA8NNNC"/>
       <property name="LCSC" value="C29936"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -405,6 +433,8 @@
       <fields>
         <field name="Manufacturer Part Number">0603CG471J500NT</field>
         <field name="LCSC">C36252</field>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
         <field name="Datasheet">https://www.lcsc.com/datasheet/C36252.pdf</field>
         <field name="Description">Unpolarized capacitor</field>
@@ -412,6 +442,8 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Manufacturer Part Number" value="0603CG471J500NT"/>
       <property name="LCSC" value="C36252"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -427,6 +459,8 @@
       <fields>
         <field name="Manufacturer Part Number">CL10A475KA8NQNC</field>
         <field name="LCSC">C69335</field>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
         <field name="Datasheet">https://www.lcsc.com/datasheet/C69335.pdf</field>
         <field name="Description">Unpolarized capacitor</field>
@@ -434,6 +468,8 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Manufacturer Part Number" value="CL10A475KA8NQNC"/>
       <property name="LCSC" value="C69335"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -449,6 +485,8 @@
       <fields>
         <field name="Manufacturer Part Number">CC0603JRNPO9BN330</field>
         <field name="LCSC">C107047</field>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
         <field name="Datasheet">https://www.lcsc.com/datasheet/C107047.pdf</field>
         <field name="Description">Unpolarized capacitor</field>
@@ -456,6 +494,8 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Manufacturer Part Number" value="CC0603JRNPO9BN330"/>
       <property name="LCSC" value="C107047"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -471,6 +511,8 @@
       <fields>
         <field name="Manufacturer Part Number">CC0603JRNPO9BN330</field>
         <field name="LCSC">C107047</field>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</field>
         <field name="Datasheet">https://www.lcsc.com/datasheet/C107047.pdf</field>
         <field name="Description">Unpolarized capacitor</field>
@@ -478,6 +520,8 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Manufacturer Part Number" value="CC0603JRNPO9BN330"/>
       <property name="LCSC" value="C107047"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -493,6 +537,8 @@
       <fields>
         <field name="Manufacturer Part Number">BLM18PG121SN1D</field>
         <field name="LCSC">C14709</field>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">0_oscillators:L0603</field>
         <field name="Datasheet">https://www.lcsc.com/datasheet/C14709.pdf</field>
         <field name="Description">Ferrite bead</field>
@@ -500,6 +546,8 @@
       <libsource lib="Device" part="FerriteBead" description="Ferrite bead"/>
       <property name="Manufacturer Part Number" value="BLM18PG121SN1D"/>
       <property name="LCSC" value="C14709"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="ki_keywords" value="L ferrite bead inductor filter"/>
@@ -512,11 +560,15 @@
       <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965</footprint>
       <description>Mounting Hole without connection</description>
       <fields>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">MountingHole:MountingHole_3.2mm_M3_DIN965</field>
         <field name="Datasheet"/>
         <field name="Description">Mounting Hole without connection</field>
       </fields>
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="exclude_from_bom"/>
@@ -530,11 +582,15 @@
       <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965</footprint>
       <description>Mounting Hole without connection</description>
       <fields>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">MountingHole:MountingHole_3.2mm_M3_DIN965</field>
         <field name="Datasheet"/>
         <field name="Description">Mounting Hole without connection</field>
       </fields>
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="exclude_from_bom"/>
@@ -548,11 +604,15 @@
       <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965</footprint>
       <description>Mounting Hole without connection</description>
       <fields>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">MountingHole:MountingHole_3.2mm_M3_DIN965</field>
         <field name="Datasheet"/>
         <field name="Description">Mounting Hole without connection</field>
       </fields>
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="exclude_from_bom"/>
@@ -566,11 +626,15 @@
       <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965</footprint>
       <description>Mounting Hole without connection</description>
       <fields>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">MountingHole:MountingHole_3.2mm_M3_DIN965</field>
         <field name="Datasheet"/>
         <field name="Description">Mounting Hole without connection</field>
       </fields>
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="exclude_from_bom"/>
@@ -584,13 +648,19 @@
       <footprint>0_connector:RJ45-TH_HR911105A</footprint>
       <datasheet>https://www.lcsc.com/datasheet/C12074.pdf</datasheet>
       <fields>
-        <field name="LCSC Part">C12074</field>
+        <field name="LCSC Part"/>
+        <field name="Config"/>
+        <field name="LCSC">C12074</field>
+        <field name="Manufacturer"/>
         <field name="Footprint">0_connector:RJ45-TH_HR911105A</field>
         <field name="Datasheet">https://www.lcsc.com/datasheet/C12074.pdf</field>
         <field name="Description"/>
       </fields>
       <libsource lib="0_connector" part="HR911105A_C12074" description=""/>
-      <property name="LCSC Part" value="C12074"/>
+      <property name="LCSC Part" value=""/>
+      <property name="Config" value=""/>
+      <property name="LCSC" value="C12074"/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <sheetpath names="/Project Architecture/LAN8742A breakout/" tstamps="/c5103ceb-5325-4a84-a025-9638a412984e/f06537ee-772d-44d3-8c50-e0ba41038c9c/"/>
@@ -601,11 +671,15 @@
       <footprint>Connector_PinHeader_2.54mm:PinHeader_2x10_P2.54mm_Vertical</footprint>
       <description>Generic connector, double row, 02x10, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
       <fields>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_2x10_P2.54mm_Vertical</field>
         <field name="Datasheet"/>
         <field name="Description">Generic connector, double row, 02x10, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_02x10_Odd_Even" description="Generic connector, double row, 02x10, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
@@ -618,11 +692,15 @@
       <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
       <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
       <fields>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</field>
         <field name="Datasheet"/>
         <field name="Description">Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
@@ -635,11 +713,15 @@
       <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
       <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
       <fields>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</field>
         <field name="Datasheet"/>
         <field name="Description">Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
@@ -652,11 +734,15 @@
       <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
       <description>Solder Jumper, 2-pole, open</description>
       <fields>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</field>
         <field name="Datasheet"/>
         <field name="Description">Solder Jumper, 2-pole, open</field>
       </fields>
       <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="exclude_from_bom"/>
@@ -670,11 +756,15 @@
       <footprint>Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</footprint>
       <description>Solder Jumper, 2-pole, open</description>
       <fields>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</field>
         <field name="Datasheet"/>
         <field name="Description">Solder Jumper, 2-pole, open</field>
       </fields>
       <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="exclude_from_bom"/>
@@ -688,11 +778,15 @@
       <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
       <description>Solder Jumper, 2-pole, open</description>
       <fields>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</field>
         <field name="Datasheet"/>
         <field name="Description">Solder Jumper, 2-pole, open</field>
       </fields>
       <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="exclude_from_bom"/>
@@ -706,11 +800,15 @@
       <footprint>Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</footprint>
       <description>Solder Jumper, 2-pole, open</description>
       <fields>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</field>
         <field name="Datasheet"/>
         <field name="Description">Solder Jumper, 2-pole, open</field>
       </fields>
       <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="exclude_from_bom"/>
@@ -724,11 +822,15 @@
       <footprint>Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</footprint>
       <description>Solder Jumper, 2-pole, open</description>
       <fields>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</field>
         <field name="Datasheet"/>
         <field name="Description">Solder Jumper, 2-pole, open</field>
       </fields>
       <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="exclude_from_bom"/>
@@ -745,6 +847,8 @@
       <fields>
         <field name="Manufacturer Part Number">0603WAF1212T5E</field>
         <field name="LCSC">C22864</field>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
         <field name="Datasheet">https://www.lcsc.com/datasheet/C22864.pdf</field>
         <field name="Description">Resistor</field>
@@ -752,6 +856,8 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Manufacturer Part Number" value="0603WAF1212T5E"/>
       <property name="LCSC" value="C22864"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
@@ -767,6 +873,8 @@
       <fields>
         <field name="Manufacturer Part Number">RC0603FR-0710KL</field>
         <field name="LCSC">C98220</field>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
         <field name="Datasheet">https://www.lcsc.com/datasheet/C98220.pdf</field>
         <field name="Description">Resistor</field>
@@ -774,6 +882,8 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Manufacturer Part Number" value="RC0603FR-0710KL"/>
       <property name="LCSC" value="C98220"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
@@ -789,6 +899,8 @@
       <fields>
         <field name="Manufacturer Part Number">RC0603FR-0710KL</field>
         <field name="LCSC">C98220</field>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
         <field name="Datasheet">https://www.lcsc.com/datasheet/C98220.pdf</field>
         <field name="Description">Resistor</field>
@@ -796,6 +908,8 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Manufacturer Part Number" value="RC0603FR-0710KL"/>
       <property name="LCSC" value="C98220"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
@@ -811,6 +925,8 @@
       <fields>
         <field name="Manufacturer Part Number">RC0603FR-0710KL</field>
         <field name="LCSC">C98220</field>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
         <field name="Datasheet">https://www.lcsc.com/datasheet/C98220.pdf</field>
         <field name="Description">Resistor</field>
@@ -818,6 +934,8 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Manufacturer Part Number" value="RC0603FR-0710KL"/>
       <property name="LCSC" value="C98220"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
@@ -833,6 +951,8 @@
       <fields>
         <field name="Manufacturer Part Number">RC0603FR-0710KL</field>
         <field name="LCSC">C98220</field>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
         <field name="Datasheet">https://www.lcsc.com/datasheet/C98220.pdf</field>
         <field name="Description">Resistor</field>
@@ -840,6 +960,8 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Manufacturer Part Number" value="RC0603FR-0710KL"/>
       <property name="LCSC" value="C98220"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
@@ -855,6 +977,8 @@
       <fields>
         <field name="Manufacturer Part Number">RC0603FR-071KL</field>
         <field name="LCSC">C22548</field>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
         <field name="Datasheet">https://www.lcsc.com/datasheet/C22548.pdf</field>
         <field name="Description">Resistor</field>
@@ -862,6 +986,8 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Manufacturer Part Number" value="RC0603FR-071KL"/>
       <property name="LCSC" value="C22548"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
@@ -877,6 +1003,8 @@
       <fields>
         <field name="Manufacturer Part Number">RC0603FR-071KL</field>
         <field name="LCSC">C22548</field>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
         <field name="Datasheet">https://www.lcsc.com/datasheet/C22548.pdf</field>
         <field name="Description">Resistor</field>
@@ -884,6 +1012,8 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Manufacturer Part Number" value="RC0603FR-071KL"/>
       <property name="LCSC" value="C22548"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
@@ -899,6 +1029,8 @@
       <fields>
         <field name="Manufacturer Part Number">RC0603FR-071KL</field>
         <field name="LCSC">C22548</field>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
         <field name="Datasheet">https://www.lcsc.com/datasheet/C22548.pdf</field>
         <field name="Description">Resistor</field>
@@ -906,6 +1038,8 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Manufacturer Part Number" value="RC0603FR-071KL"/>
       <property name="LCSC" value="C22548"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
@@ -921,6 +1055,8 @@
       <fields>
         <field name="Manufacturer Part Number">RC0603FR-0749R9L</field>
         <field name="LCSC">C114625</field>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
         <field name="Datasheet">https://www.lcsc.com/datasheet/C114625.pdf</field>
         <field name="Description">Resistor</field>
@@ -928,6 +1064,8 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Manufacturer Part Number" value="RC0603FR-0749R9L"/>
       <property name="LCSC" value="C114625"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
@@ -943,6 +1081,8 @@
       <fields>
         <field name="Manufacturer Part Number">RC0603FR-0749R9L</field>
         <field name="LCSC">C114625</field>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
         <field name="Datasheet">https://www.lcsc.com/datasheet/C114625.pdf</field>
         <field name="Description">Resistor</field>
@@ -950,6 +1090,8 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Manufacturer Part Number" value="RC0603FR-0749R9L"/>
       <property name="LCSC" value="C114625"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
@@ -965,6 +1107,8 @@
       <fields>
         <field name="Manufacturer Part Number">RC0603FR-0749R9L</field>
         <field name="LCSC">C114625</field>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
         <field name="Datasheet">https://www.lcsc.com/datasheet/C114625.pdf</field>
         <field name="Description">Resistor</field>
@@ -972,6 +1116,8 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Manufacturer Part Number" value="RC0603FR-0749R9L"/>
       <property name="LCSC" value="C114625"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
@@ -987,6 +1133,8 @@
       <fields>
         <field name="Manufacturer Part Number">RC0603FR-0749R9L</field>
         <field name="LCSC">C114625</field>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</field>
         <field name="Datasheet">https://www.lcsc.com/datasheet/C114625.pdf</field>
         <field name="Description">Resistor</field>
@@ -994,6 +1142,8 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Manufacturer Part Number" value="RC0603FR-0749R9L"/>
       <property name="LCSC" value="C114625"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
@@ -1006,11 +1156,15 @@
       <footprint>Button_Switch_THT:SW_PUSH_6mm</footprint>
       <description>Push button switch, generic, two pins</description>
       <fields>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">Button_Switch_THT:SW_PUSH_6mm</field>
         <field name="Datasheet"/>
         <field name="Description">Push button switch, generic, two pins</field>
       </fields>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
@@ -1024,12 +1178,18 @@
       <description>LAN8720 Ethernet PHY with RMII interface, QFN-24</description>
       <fields>
         <field name="Manufacturer Part Number">LAN8742A-CZ-TR</field>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
+        <field name="LCSC">C510876</field>
         <field name="Footprint">Package_DFN_QFN:VQFN-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias</field>
         <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/8720a.pdf</field>
         <field name="Description">LAN8720 Ethernet PHY with RMII interface, QFN-24</field>
       </fields>
       <libsource lib="Interface_Ethernet" part="LAN8720A" description="LAN8720 Ethernet PHY with RMII interface, QFN-24"/>
       <property name="Manufacturer Part Number" value="LAN8742A-CZ-TR"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
+      <property name="LCSC" value="C510876"/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="ki_keywords" value="ETH PHY RMII"/>
@@ -1045,6 +1205,8 @@
       <fields>
         <field name="Manufacturer Part Number">01.X.SD.120MMOI025000000</field>
         <field name="LCSC">C7462598</field>
+        <field name="Config"/>
+        <field name="Manufacturer"/>
         <field name="Footprint">0_oscillators:01.X.SD.120MMOI025000000</field>
         <field name="Datasheet">https://www.lcsc.com/datasheet/C7462598.pdf</field>
         <field name="Description">Two pin crystal</field>
@@ -1052,6 +1214,8 @@
       <libsource lib="Device" part="Crystal" description="Two pin crystal"/>
       <property name="Manufacturer Part Number" value="01.X.SD.120MMOI025000000"/>
       <property name="LCSC" value="C7462598"/>
+      <property name="Config" value=""/>
+      <property name="Manufacturer" value=""/>
       <property name="Sheetname" value="LAN8742A breakout"/>
       <property name="Sheetfile" value="LAN8742A breakout.kicad_sch"/>
       <property name="ki_keywords" value="quartz ceramic resonator oscillator"/>
